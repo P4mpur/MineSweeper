@@ -1,0 +1,7 @@
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/wx_cmake_template_core.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/edit_cache.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/rebuild_cache.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/thirdparty/CMakeFiles/edit_cache.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/thirdparty/CMakeFiles/rebuild_cache.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/thirdparty/wxwidgets/CMakeFiles/edit_cache.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/thirdparty/wxwidgets/CMakeFiles/rebuild_cache.dir

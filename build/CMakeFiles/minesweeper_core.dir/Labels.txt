@@ -1,0 +1,13 @@
+# Target labels
+ minesweeper_core
+# Source files and their labels
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/minesweeper_core
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/minesweeper_core.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/minesweeper_core-complete.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-build.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-configure.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-download.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-install.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-mkdir.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-patch.rule
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-update.rule

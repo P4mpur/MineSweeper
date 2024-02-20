@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/minesweeper_core"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/minesweeper_core.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/minesweeper_core-complete.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-build.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-configure.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-download.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-install.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-mkdir.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-patch.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/minesweeper_core/minesweeper_core-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"minesweeper_core"
+		],
+		"name" : "minesweeper_core"
+	}
+}

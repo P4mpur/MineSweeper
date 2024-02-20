@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/wx_cmake_template_core"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/wx_cmake_template_core.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/CMakeFiles/wx_cmake_template_core-complete.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-build.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-configure.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-download.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-install.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-mkdir.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-patch.rule"
+		},
+		{
+			"file" : "/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Stamp/wx_cmake_template_core/wx_cmake_template_core-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"wx_cmake_template_core"
+		],
+		"name" : "wx_cmake_template_core"
+	}
+}

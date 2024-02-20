@@ -1,0 +1,3 @@
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Build/minesweeper_core/CMakeFiles/main.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Build/minesweeper_core/CMakeFiles/edit_cache.dir
+/home/pampur/Zadaci/wxWidget/tryToMakeIt/build/subprojects/Build/minesweeper_core/CMakeFiles/rebuild_cache.dir
